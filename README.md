@@ -9,3 +9,5 @@ The datasets are expected in the "imperfect_flow_dataset" folder, with the same 
 - *run_xyz.jl* files correspond to an experiment running on all instances and writing result files.
 - *consolidate_xyz* files gather the corresponding JSON result files and produces plots and printed table results which were used in the paper.
 - *single_poisson_case.jl* corresponds to a single hard salmon instance used to display the numerical difficulties associated with the Poisson model.
+
+Cite the code specifically using the Zenodo DOI: https://doi.org/10.5281/zenodo.16033781
